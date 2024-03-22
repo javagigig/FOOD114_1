@@ -2,9 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=180&text=FOOD114&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align="center"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> asdasdasdasd </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> FOOD114 </div> 
     </div>
-    
+<div align="center">
+    <img src="https://github.com/dlehdwo01/TeamProject1-FOOD114/assets/153072974/3678117e-9790-427e-b32a-5cbb52663ca7" style="width:800px;">
+    </div> 
     
 <div style= "text-align:left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
